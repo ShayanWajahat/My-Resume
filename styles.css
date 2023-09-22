@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Montserrat:wght@500&family=Roboto:wght@300&display=swap');
+*{
+    font-family: "Montserrat", sans-serif;
+}
+.heading1{
+    font-weight: 900;
+    padding-left: 40px;
+    text-align: center;
+}
+h2{
+    padding-left: 40px;
+}
+p{
+    padding-left: 40px;
+}
+li{
+    padding-left: 40px;
+    padding: 6px;
+}
